@@ -1,4 +1,4 @@
-# dog_project_web_app
+# Dog breed calssifier
 This is a deep learning model that predicts breeds of dogs and for a human it predicts most resembling breed of dog.
 It uses transfer learning technique and predicts with accuracy of almost 83%.
 
